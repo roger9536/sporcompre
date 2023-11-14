@@ -1,0 +1,674 @@
+
+
+#EXTM3U
+#EXTINF:-1,ARENA 1 (BiH)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/535.ts
+#EXTINF:-1,ARENA 1 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/536.ts
+#EXTINF:-1,ARENA 2 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/538.ts
+#EXTINF:-1,ARENA 3 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/540.ts
+#EXTINF:-1,ARENA 4 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/542.ts
+#EXTINF:-1,ARENA 5 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/544.ts
+#EXTINF:-1,ARENA 1 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/546.ts
+#EXTINF:-1,ARENA 2 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/547.ts
+#EXTINF:-1,ARENA 3 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/548.ts
+#EXTINF:-1,ARENA 4 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/549.ts
+#EXTINF:-1,ARENA 5 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/550.ts
+#EXTINF:-1,ARENA 6 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/551.ts
+#EXTINF:-1,ARENA 7 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/552.ts
+#EXTINF:-1,ARENA 8 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/553.ts
+#EXTINF:-1,ARENA 9 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/554.ts
+#EXTINF:-1,ARENA 10 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/555.ts
+#EXTINF:-1,SPORT KLUB 1 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/556.ts
+#EXTINF:-1,SPORT KLUB 3 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/560.ts
+#EXTINF:-1,SPORT KLUB 4 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/562.ts
+#EXTINF:-1,SPORT KLUB 5 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/563.ts
+#EXTINF:-1,SPORT KLUB 6 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/564.ts
+#EXTINF:-1,SPORT KLUB HD (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/566.ts
+#EXTINF:-1,SPORT KLUB 1 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/567.ts
+#EXTINF:-1,SPORT KLUB 2 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/569.ts
+#EXTINF:-1,SPORT KLUB 2 (SR) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/570.ts
+#EXTINF:-1,SPORT KLUB 3 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/571.ts
+#EXTINF:-1,SPORT KLUB 3 (SR) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/572.ts
+#EXTINF:-1,SPORT KLUB 4 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/573.ts
+#EXTINF:-1,SPORT KLUB 5 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/574.ts
+#EXTINF:-1,SPORT KLUB GOLF
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/575.ts
+#EXTINF:-1,SPORT KLUB 1 (SLO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/576.ts
+#EXTINF:-1,SPORT KLUB 2 (SLO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/577.ts
+#EXTINF:-1,SPORT KLUB 3 (SLO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/578.ts
+#EXTINF:-1,SPORT KLUB (SR) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/583.ts
+#EXTINF:-1,SPORTSKA TV
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/584.ts
+#EXTINF:-1,SOS (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/585.ts
+#EXTINF:-1,NOVA SPORT (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/587.ts
+#EXTINF:-1,B LIGA 1 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/588.ts
+#EXTINF:-1,B LIGA 1 (DE) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/589.ts
+#EXTINF:-1,B LIGA 2 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/590.ts
+#EXTINF:-1,B LIGA 2 (DE) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/591.ts
+#EXTINF:-1,B LIGA 3 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/592.ts
+#EXTINF:-1,B LIGA 4 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/594.ts
+#EXTINF:-1,B LIGA 5 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/595.ts
+#EXTINF:-1,S SPORT 1 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/597.ts
+#EXTINF:-1,S SPORT 1 (DE) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/598.ts
+#EXTINF:-1,S SPORT 2 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/599.ts
+#EXTINF:-1,S SPORT 2 (DE) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/600.ts
+#EXTINF:-1,S SPORT 3 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/601.ts
+#EXTINF:-1,S SPORT 4 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/602.ts
+#EXTINF:-1,S SPORT 5 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/603.ts
+#EXTINF:-1,S SPORT AUSTRIA (AT)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/605.ts
+#EXTINF:-1,S SPORTS NEWS (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/607.ts
+#EXTINF:-1,SPORT 1 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/609.ts
+#EXTINF:-1,SPORT 1+ (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/610.ts
+#EXTINF:-1,DAZN 1 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/611.ts
+#EXTINF:-1,DAZN 2 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/612.ts
+#EXTINF:-1,S SPORTS F1 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/613.ts
+#EXTINF:-1,S SPORTS F1 (UK)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/614.ts
+#EXTINF:-1,AUTO MOTOR SPORT (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/616.ts
+#EXTINF:-1,MOTORVISION (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/617.ts
+#EXTINF:-1,RMC SPORT 1 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/619.ts
+#EXTINF:-1,RMC SPORT 2 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/620.ts
+#EXTINF:-1,RMC SPORT 3 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/621.ts
+#EXTINF:-1,RMC SPORT 4 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/622.ts
+#EXTINF:-1,RMC SPORT 5 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/623.ts
+#EXTINF:-1,RMC SPORT 6 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/624.ts
+#EXTINF:-1,RMC SPORT 7 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/625.ts
+#EXTINF:-1,BEIN SPORTS 1 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/627.ts
+#EXTINF:-1,BEIN SPORTS 2 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/628.ts
+#EXTINF:-1,BEIN SPORTS 3 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/629.ts
+#EXTINF:-1,BEIN SPORTS 4 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/630.ts
+#EXTINF:-1,BEIN SPORTS 5 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/631.ts
+#EXTINF:-1,BEIN SPORTS 6 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/632.ts
+#EXTINF:-1,BEIN SPORTS 7 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/633.ts
+#EXTINF:-1,BEIN SPORTS HABER (TR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/634.ts
+#EXTINF:-1,BEIN SPORTS 1 (TR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/636.ts
+#EXTINF:-1,BEIN SPORTS 2 (TR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/637.ts
+#EXTINF:-1,BEIN SPORTS 3 (TR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/638.ts
+#EXTINF:-1,BEIN SPORTS 4 (TR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/639.ts
+#EXTINF:-1,BEIN SPORTS 1 (AR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/640.ts
+#EXTINF:-1,BEIN SPORTS 2 (AR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/641.ts
+#EXTINF:-1,BEIN SPORTS 3 (AR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/642.ts
+#EXTINF:-1,BEIN SPORTS 4 (AR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/643.ts
+#EXTINF:-1,BEIN SPORTS 5 (AR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/644.ts
+#EXTINF:-1,BEIN SPORTS 6 (AR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/645.ts
+#EXTINF:-1,BEIN SPORTS 7 (AR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/648.ts
+#EXTINF:-1,BT SPORT 1 (UK)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/651.ts
+#EXTINF:-1,BT SPORT 2 (UK)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/652.ts
+#EXTINF:-1,BT SPORT 3 (UK)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/653.ts
+#EXTINF:-1,CANAL+ SPORT (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/655.ts
+#EXTINF:-1,DIGI SPORT 1 (RO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/656.ts
+#EXTINF:-1,DIGI SPORT 2 (RO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/657.ts
+#EXTINF:-1,DIGI SPORT 3 (RO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/658.ts
+#EXTINF:-1,DIGI SPORT 4 (RO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/659.ts
+#EXTINF:-1,DIGI SPORT 1 (HU)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/660.ts
+#EXTINF:-1,DIGI SPORT 2 (HU)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/661.ts
+#EXTINF:-1,ELEVEN SPORT 1 (PL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/663.ts
+#EXTINF:-1,ELEVEN SPORT 2 (PL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/664.ts
+#EXTINF:-1,ELEVEN SPORT 3 (PL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/665.ts
+#EXTINF:-1,ELEVEN SPORT 4 (PL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/666.ts
+#EXTINF:-1,EUROSPORT 1 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/667.ts
+#EXTINF:-1,EUROSPORT 2 (DE)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/668.ts
+#EXTINF:-1,EUROSPORT 1 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/669.ts
+#EXTINF:-1,EUROSPORT 2 (SR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/670.ts
+#EXTINF:-1,EUROSPORT 1 (UK)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/671.ts
+#EXTINF:-1,EUROSPORT 2 (UK)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/672.ts
+#EXTINF:-1,EUROSPORT 1 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/673.ts
+#EXTINF:-1,EUROSPORT 2 (FR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/674.ts
+#EXTINF:-1,EUROSPORT 1 (RO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/675.ts
+#EXTINF:-1,EUROSPORT 2 (RO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/676.ts
+#EXTINF:-1,FIGHT BOX (BG)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/680.ts
+#EXTINF:-1,FIGHT CHANNEL (USA)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/681.ts
+#EXTINF:-1,NBA TV (USA)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/682.ts
+#EXTINF:-1,ORF SPORT+ (AT)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/683.ts
+#EXTINF:-1,REAL MADRID TV (SPA)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/684.ts
+#EXTINF:-1,BARCA TV (SPA)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/685.ts
+#EXTINF:-1,S SPORTS CRICKET (UK)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/686.ts
+#EXTINF:-1,S SPORTS GOLF (UK)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/687.ts
+#EXTINF:-1,S SPORTS MAIN EVENT (UK)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/688.ts
+#EXTINF:-1,S SPORTS MIX (UK)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/689.ts
+#EXTINF:-1,SPORT TV 1 (PT)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/690.ts
+#EXTINF:-1,SPORT TV 2 (PT)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/691.ts
+#EXTINF:-1,SPORT TV 3 (PT)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/692.ts
+#EXTINF:-1,SPORT TV 4 (PT)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/693.ts
+#EXTINF:-1,SPORT TV 5 (PT)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/694.ts
+#EXTINF:-1,SUPER SPORT NEWS (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/695.ts
+#EXTINF:-1,SUPER SPORT 2 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/696.ts
+#EXTINF:-1,SUPER SPORT 3 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/697.ts
+#EXTINF:-1,SUPER SPORT 4 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/698.ts
+#EXTINF:-1,TRING SPORT 1 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/699.ts
+#EXTINF:-1,TRING SPORT 2 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/700.ts
+#EXTINF:-1,TRING SPORT 3 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/701.ts
+#EXTINF:-1,TRING SPORT 4 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/702.ts
+#EXTINF:-1,TSN 1 (CA)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/703.ts
+#EXTINF:-1,TSN 2 (CA)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/704.ts
+#EXTINF:-1,TSN 3 (CA)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/705.ts
+#EXTINF:-1,TSN 4 (CA)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/706.ts
+#EXTINF:-1,C MORE FOTBOLL(SW)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/707.ts
+#EXTINF:-1,C MORE HOCKEY (SW)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/708.ts
+#EXTINF:-1,C MORE LIVE (SW)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/709.ts
+#EXTINF:-1,C MORE SPORT (SW)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/710.ts
+#EXTINF:-1,VIASAT FOTBOLL (SW)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/711.ts
+#EXTINF:-1,VIASAT MOTOR (SW)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/713.ts
+#EXTINF:-1,VIASAT SPORT (SW)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/714.ts
+#EXTINF:-1,VIASAT SPORT PREMIUM (SW)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/715.ts
+#EXTINF:-1,EUROSPORT 1 (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/716.ts
+#EXTINF:-1,EUROSPORT 2 (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/717.ts
+#EXTINF:-1,ESPN 1 (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/718.ts
+#EXTINF:-1,ESPN 1 (NL) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/719.ts
+#EXTINF:-1,ESPN 2 (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/720.ts
+#EXTINF:-1,ESPN 2 (NL) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/721.ts
+#EXTINF:-1,ESPN 3 (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/722.ts
+#EXTINF:-1,ESPN 3 (NL) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/723.ts
+#EXTINF:-1,ESPN 4 (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/724.ts
+#EXTINF:-1,ZIGGO SPORT VOETBAL (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/727.ts
+#EXTINF:-1,ZIGGO SPORT VOETBAL (NL) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/728.ts
+#EXTINF:-1,ZIGGO SPORT SELECT (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/729.ts
+#EXTINF:-1,ZIGGO SPORT SELECT (NL) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/730.ts
+#EXTINF:-1,ZIGGO SPORT EXTRA (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/731.ts
+#EXTINF:-1,ZIGGO SPORT RACING (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/732.ts
+#EXTINF:-1,ZIGGO SPORT GOLF (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/733.ts
+#EXTINF:-1,ZIGGO SPORT DOCU (NL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/734.ts
+#EXTINF:-1,Kujtesa sport 1 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/16278.ts
+#EXTINF:-1,Kujtesa sport 2 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/16279.ts
+#EXTINF:-1,Kujtesa sport 3 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/16280.ts
+#EXTINF:-1,Kujtesa sport 4 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/16281.ts
+#EXTINF:-1,Super Sport Kosova 1 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/16282.ts
+#EXTINF:-1,Super Sport Kosova 2 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/16283.ts
+#EXTINF:-1,SPORT TV 3 (SLO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/73495.ts
+#EXTINF:-1,SPORT TV 2 (SLO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/73494.ts
+#EXTINF:-1,SPORT TV 1 (SLO)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/73493.ts
+#EXTINF:-1,SPORT KLUB 2 (HR) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/49330.ts
+#EXTINF:-1,SPORT KLUB FIGHT
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/73377.ts
+#EXTINF:-1,DAZN 1 (DE) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/37284.ts
+#EXTINF:-1,DAZN 2 (DE) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/37285.ts
+#EXTINF:-1,S SPORT F1 (IT)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/44204.ts
+#EXTINF:-1,RTSH 3 (AL)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/1014.ts
+#EXTINF:-1,VIASAT SERIES HD (SW)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/179726.ts
+#EXTINF:-1,MAX SPORT 2 (HR)  L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/47634.ts
+#EXTINF:-1,MAX SPORT 1 (HR) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/47635.ts
+#EXTINF:-1,MAX SPORT 2 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/47400.ts
+#EXTINF:-1,BALKAN FOLK
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/47626.ts
+#EXTINF:-1,BEE TV (Pcelarstvo)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/47630.ts
+#EXTINF:-1,KLAPE I TAMBURE(test)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/47280.ts
+#EXTINF:-1,SPORT KLUB HD (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/47356.ts
+#EXTINF:-1,MAX SPORT 1 (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/47399.ts
+#EXTINF:-1,NOVA TV (BG)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/45484.ts
+#EXTINF:-1,NOVA WORLD (HR)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/44916.ts
+#EXTINF:-1,UFC (USA)
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/45264.ts
+#EXTINF:-1,MAXCRO SELECT 11 HD
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/45272.ts
+#EXTINF:-1,S SPORT UNO (IT) TEST
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/44206.ts
+#EXTINF:-1,HAPPY TV (SR) L2
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/44211.ts
+#EXTINF:-1,DAZN 2 (IT) TEST
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/44202.ts
+#EXTINF:-1,DAZN 1 (IT) TEST
+http://balkan-x.net:80/live/Hantalaviber/jyG0QnbV8a/44201.ts
+#EXTINF:-1,Eurosport 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/3420.ts
+#EXTINF:-1,Eurosport 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/4096.ts
+#EXTINF:-1,Dazn 1 SD
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/76836.ts
+#EXTINF:-1,DAZN 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/25971.ts
+#EXTINF:-1,DAZN 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/12615.ts
+#EXTINF:-1,Sky Sport News
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/1184.ts
+#EXTINF:-1,Sky Sport Top Event
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/147.ts
+#EXTINF:-1,Sky Sport Tenis
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/149.ts
+#EXTINF:-1,Sky Sport Mix
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/25998.ts
+#EXTINF:-1,Sky Sport F 1 
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/33079.ts
+#EXTINF:-1,Sky Sport Golf
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/23476.ts
+#EXTINF:-1,Sky Sport Premier League
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/23475.ts
+#EXTINF:-1,Motorvision TV
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/2876.ts
+#EXTINF:-1,Auto Motor TV
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/4281.ts
+#EXTINF:-1,Blue Zoom
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/32061.ts
+#EXTINF:-1,Blue Sport 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/32062.ts
+#EXTINF:-1,Blue Sport 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/45123.ts
+#EXTINF:-1,Sport 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/4103.ts
+#EXTINF:-1,Sport 1+
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/76565.ts
+#EXTINF:-1,Sportdigital
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/40970.ts
+#EXTINF:-1,ORF Sport+
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/2875.ts
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/1164.ts
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/61587.ts
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/38539.ts
+#EXTINF:-1,Sky Sport Bundesliga 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/25996.ts
+#EXTINF:-1,Sky Sport Bundesliga 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/1166.ts
+#EXTINF:-1,Sky Sport Bundesliga 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/1167.ts
+#EXTINF:-1,Sky Sport Bundesliga 5
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/1168.ts
+#EXTINF:-1,Sky Sport Bundesliga 6
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/1169.ts
+#EXTINF:-1,Sky Sport Bundesliga 7
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/72619.ts
+#EXTINF:-1,Sky Sport Bundesliga 8
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/72620.ts
+#EXTINF:-1,Sky Sport 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/76558.ts
+#EXTINF:-1,Sky Sport 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/76559.ts
+#EXTINF:-1,Sky Sport 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/76560.ts
+#EXTINF:-1,Sky Sport 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/76561.ts
+#EXTINF:-1,Sky Sport 5
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/76562.ts
+#EXTINF:-1,Sky Sport 6
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/76563.ts
+#EXTINF:-1,Sky Sport Austria 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/1119.ts
+#EXTINF:-1,Sky Sport Austria 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/30224.ts
+#EXTINF:-1,Sky  Sport Austria 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/30225.ts
+#EXTINF:-1,Sky Sport Austria 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/30226.ts
+#EXTINF:-1,Magenta Sport 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/68315.ts
+#EXTINF:-1,Magenta Sport 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/68316.ts
+#EXTINF:-1,Magenta Sport 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/68317.ts
+#EXTINF:-1,Magenta Sport 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/68318.ts
+#EXTINF:-1,Magenta Sport 5
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/68319.ts
+#EXTINF:-1,Magenta Sport 6
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/68320.ts
+#EXTINF:-1,Magenta Sport 7
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/68322.ts
+#EXTINF:-1,Magenta Sport 8
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/68323.ts
+#EXTINF:-1,Magenta Sport 9
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/76582.ts
+#EXTINF:-1,Magenta Sport 10
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/76583.ts
+#EXTINF:-1,RTL+ 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69342.ts
+#EXTINF:-1,RTL+ 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69343.ts
+#EXTINF:-1,RTL+ 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69344.ts
+#EXTINF:-1,RTL+ 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69345.ts
+#EXTINF:-1,RTL+ 5
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69346.ts
+#EXTINF:-1,RTL+ 6
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69347.ts
+#EXTINF:-1,BeIN Sports HD 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/12644.ts
+#EXTINF:-1,BeIN Sports HD 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/12645.ts
+#EXTINF:-1,BeIN Sports HD 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/12646.ts
+#EXTINF:-1,BeIN Sports HD 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/12647.ts
+#EXTINF:-1,BeIN Sports HD 5
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/12648.ts
+#EXTINF:-1,BeIN Sports HD 6
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/12649.ts
+#EXTINF:-1,BeIN Sports HD 7
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/12650.ts
+#EXTINF:-1,Bein Sports 1  FR
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/36407.ts
+#EXTINF:-1,Bein Sports 2 FR
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/36408.ts
+#EXTINF:-1,Bein Sports 3 FR
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/36409.ts
+#EXTINF:-1,Supersport 1 HD
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/29739.ts
+#EXTINF:-1,Supersport 2 HD
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/29740.ts
+#EXTINF:-1,Supersport 3 HD
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/29741.ts
+#EXTINF:-1,Supersport 4 HD
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/29742.ts
+#EXTINF:-1,Supersport 5 HD
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/29743.ts
+#EXTINF:-1,Digi Sport 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39886.ts
+#EXTINF:-1,Digi Sport 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39887.ts
+#EXTINF:-1,Digi Sport 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39888.ts
+#EXTINF:-1,Digi Sport 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39889.ts
+#EXTINF:-1,Orange Sport 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69800.ts
+#EXTINF:-1,Orange Sport 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69802.ts
+#EXTINF:-1,Orange Sport 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69803.ts
+#EXTINF:-1,Orange Sport 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69804.ts
+#EXTINF:-1,LIG TV 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39895.ts
+#EXTINF:-1,LIG TV 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39896.ts
+#EXTINF:-1,LIG TV 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39897.ts
+#EXTINF:-1,LIG TV 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39898.ts
+#EXTINF:-1,Eleven Sports 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/67766.ts
+#EXTINF:-1,Eleven Sports 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/67767.ts
+#EXTINF:-1,Eleven Sports 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/67768.ts
+#EXTINF:-1,Polsat Sport
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/67770.ts
+#EXTINF:-1,Polsat Sport Premium 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/67771.ts
+#EXTINF:-1,Polsat Sport Premium 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/67772.ts
+#EXTINF:-1,CANAL+ SPORT 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/67773.ts
+#EXTINF:-1,CANAL+ SPORT 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/67774.ts
+#EXTINF:-1,CANAL+ SPORT 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/71761.ts
+#EXTINF:-1,CANAL+ SPORT 5
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/71762.ts
+#EXTINF:-1,TV2 Sport
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69797.ts
+#EXTINF:-1,TV2 Sport X
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69798.ts
+#EXTINF:-1,TV3 Sport
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/68705.ts
+#EXTINF:-1,C More Live 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/4444.ts
+#EXTINF:-1,C More Live 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/4445.ts
+#EXTINF:-1,C More Live 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/4446.ts
+#EXTINF:-1,C More Live 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/4447.ts
+#EXTINF:-1,C More Fotboll
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/40569.ts
+#EXTINF:-1,Sky Sport News
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/72627.ts
+#EXTINF:-1,Sky Sport Foodball
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/72625.ts
+#EXTINF:-1,Sky Sport Arene
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/72623.ts
+#EXTINF:-1,Sky Sport Mix
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/72624.ts
+#EXTINF:-1,Sky Sport Golf
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/72626.ts
+#EXTINF:-1,Sky Sport F1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/71731.ts
+#EXTINF:-1,Sky Sport Cricket
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/72645.ts
+#EXTINF:-1,Racing TV
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/72646.ts
+#EXTINF:-1,ESPN 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/25466.ts
+#EXTINF:-1,ESPN 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/25465.ts
+#EXTINF:-1,ESPN 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/25464.ts
+#EXTINF:-1,BT S 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39632.ts
+#EXTINF:-1,BT S 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39633.ts
+#EXTINF:-1,BT S 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/39634.ts
+#EXTINF:-1,Sport TV 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69683.ts
+#EXTINF:-1,Sport TV 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69684.ts
+#EXTINF:-1,Sport TV 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69685.ts
+#EXTINF:-1,Sport TV 4
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69686.ts
+#EXTINF:-1,Sport TV 5
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69687.ts
+#EXTINF:-1,Eleven Sports 1 PT
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69688.ts
+#EXTINF:-1,Eleven Sports 2 PT
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69689.ts
+#EXTINF:-1,Eleven Sports 3 PT
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69690.ts
+#EXTINF:-1,Fight Box
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/73899.ts
+#EXTINF:-1,Supersport Rugby
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/75452.ts
+#EXTINF:-1,UFC Pass
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/75526.ts
+#EXTINF:-1,Moto GP
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/75534.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
